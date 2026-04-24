@@ -1,5 +1,5 @@
-name: FastAPI Developer
-description: Builds and maintains FastAPI services — routes, models, migrations, tests.
+name: React Developer
+description: Builds and maintains React applications — components, hooks, state management, tests.
 adapter_type: claude_code
 adapter_config:
   model: claude-opus-4-6
