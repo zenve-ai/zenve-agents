@@ -1,7 +1,9 @@
 name: Product Manager
 slug: pm
-description: Defines product requirements — user stories, acceptance criteria, PRDs, and backlog priorities.
+description: Defines product requirements — user stories, acceptance criteria,
+  PRDs, and backlog priorities.
 adapter_type: claude_code
+mode: write
 adapter_config:
   model: claude-opus-4-6
   max_tokens: 8096
