@@ -2,7 +2,7 @@ name: FastAPI Developer
 slug: fastapi-dev
 description: Builds and maintains FastAPI services — routes, models, migrations, tests.
 adapter_type: claude_code
-mode: write
+mode: code_pr
 adapter_config:
   model: claude-opus-4-6
   max_tokens: 8096
